@@ -1,0 +1,1 @@
+Magefan_BlogSampleData module consists of installation scripts and fixtures.
