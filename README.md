@@ -32,3 +32,7 @@ Magefan_BlogSampleData module consists of installation scripts and fixtures.
   * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
   * [Better Magento 2 Checkout Extension](https://magefan.com/better-magento-2-checkout-extension)
+  * [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)
+  * [Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets)
+  * [Magento 2 HTML Sitemap Extension](https://magefan.com/magento-2-html-sitemap-extension)
+  * [Magento 2 SEO Suite Ultimate Extension](https://magefan.com/magento-2-seo-suite-ultimate-extension)
